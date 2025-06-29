@@ -68,8 +68,7 @@ Improving conversion from social channels could support Canva’s user growth, e
 
 ## 🚀 How to View
 
-- [Google Colab Link](YOUR-COLAB-LINK-HERE)
-- Or download from this repository and run locally.
+- Download from this repository and run locally.
 
 ---
 
